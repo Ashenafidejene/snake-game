@@ -1,0 +1,10 @@
+.canvas{
+    background-color: black;
+}
+div{
+    height: 200px;
+    width: 200px;
+    margin: 50px,100px;
+    background-color: white;
+    color: red ;
+}
